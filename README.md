@@ -1,2 +1,2 @@
-# http://muneeb.rf.gd/
+# http://muneb.rf.gd/
 # https://muneebwanee.github.io
