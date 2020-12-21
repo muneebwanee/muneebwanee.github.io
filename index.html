@@ -1037,44 +1037,24 @@
 
                     <!-- contact form frame -->
                     <div class="art-a art-card">
-
-                      <!-- contact form -->
-                      <form id="form" class="art-contact-form">
-                        <!-- form field -->
-                        <div class="art-form-field">
-                          <!-- name input -->
-                          <input id="name" name="name" class="art-input" type="text" placeholder="Name" required>
-                          <!-- label -->
-                          <label for="name"><i class="fas fa-user"></i></label>
-                        </div>
-                        <!-- form field end -->
-                        <!-- form field -->
-                        <div class="art-form-field">
-                          <!-- email input -->
-                          <input id="email" name="email" class="art-input" type="email" placeholder="Email" required>
-                          <!-- label -->
-                          <label for="email"><i class="fas fa-at"></i></label>
-                        </div>
-                        <!-- form field end -->
-                        <!-- form field -->
-                        <div class="art-form-field">
-                          <!-- message textarea -->
-                          <textarea id="message" name="text" class="art-input" placeholder="Message" required></textarea>
-                          <!-- label -->
-                          <label for="message"><i class="far fa-envelope"></i></label>
-                        </div>
-                        <!-- form field end -->
-                        <!-- button -->
-                        <div class="art-submit-frame">
-                          <button class="art-btn art-btn-md art-submit" type="submit"><span><a href="javascript:alert('Form is not working. Please try again later!')"><font color="white">Send message</font></a></span></button><h7>&nbsp;&nbsp;&nbsp;Currently forms are not working well try to contact me via email.</h7>
-                          <!-- success -->
-                          <div class="art-success">Success <i class="fab fa-check"></i></div>
-                        </div>
-                      </form>
-                      <!-- contact form end -->
-
-                    </div>
+      <form name="contact" method="POST" action="https://formspree.io/f/xbjpplvk">
+        <div class="art-form-field">
+          <label class="fas fa-user" for="inputName">Name</label>
+          <input type="text" name="name" class="art-input" id="name" placeholder="Name" required>
+        </div>
+        <div class="art-form-field">
+          <label class="fas fa-at" for="inputEmail">Email</label>
+          <input type="email" name="email" class="art-input" id="email" placeholder="Email" required>
+        </div>
+        <div class="art-form-field">
+          <label class="far fa-envelope" for="inputMessage">Message</label>
+          <textarea name="message" class="art-input" id="message" rows="5" placeholder="Message" required></textarea>
+        </div>
+        <button type="submit" class="art-btn art-btn-md art-submit">Send</button>
+      </form>
+    </div>
                     <!-- contact form frame end -->
+
 
                   </div>
                   <!-- col end -->
