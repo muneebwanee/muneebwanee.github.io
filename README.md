@@ -47,8 +47,6 @@ I build sophisticated applications spanning Android development, web interfaces,
 ## 📊 Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muneebwanee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneebwanee&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
