@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Muneeb%20Wani&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Elite%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Muneeb Wani Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Muneeb%20Wani&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Elite%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="muneebwanee Header" />
 </div>
 
 <h1 align="center">I Build. You Prosper. You Owe Me.</h1>
