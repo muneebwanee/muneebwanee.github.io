@@ -8,7 +8,7 @@ export const PaymentSection: React.FC = () => {
   const btcAddress = "36QW21MQQxUK7ohBQnvP5itipe4bFx91Bo";
   const contactEmail = "i@muneeb.eu.org";
   const upiId = "muneeb.mushtaq@feferal";
-  const name = "Muneeb Wani";
+  const name = "Muneeb";
 
   const copyToClipboard = (text: string, key: string) => {
     navigator.clipboard.writeText(text);
