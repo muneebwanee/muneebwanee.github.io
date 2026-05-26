@@ -52,13 +52,6 @@ I build sophisticated applications spanning Android development, web interfaces,
 
 <br/>
 
-## 🌐 Deployment (Cloudflare Pages)
-
-This project is fully designed and optimized for **Cloudflare Pages**. 
-- Out-of-the-box `wrangler.toml` pre-configured.
-- Static assets output to `dist` and supported via predefined build commands.
-- Routing stability backed by the `public/_redirects` configuration.
-
 ---
 
 <div align="center">
